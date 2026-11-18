@@ -51,4 +51,4 @@ El contexto se regenera automaticamente despues de cada `log`, `task`, `audit` o
 - Seguridad high: 0
 - Guardia: ok
 
-Generado el 2026-11-18T15:48:03.561Z por ContextBase CLI.
+Generado el 2026-11-18T15:51:58.415Z por ContextBase CLI.

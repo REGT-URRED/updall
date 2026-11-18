@@ -5,6 +5,7 @@ Registro metódico del progreso técnico, decisiones de arquitectura y evolució
 ---
 
 ## Cambios Realizados
+- [2026-11-18] [commit] 0a1d20d Add global ContextBase updater and full agent configuration
 - [2026-11-18] 2026-11-18: Push final a GitHub OK: commit f7e9d90 ('first commit') en rama main del repo REGT-URRED/updall, autenticado con PAT del usuario, autor REGT-URRED <U19211826@utp.edu.pe>.
 - [2026-11-18] 2026-11-18: Creado el actualizador global de ContextBase `update-global.ps1` que orquesta doctor --fix, install-skill, sync, guard y status --check; verificacion con ejecucion completa OK.
 - [2026-11-18] Creacion del actualizador global de ContextBase update-global.ps1: orquesta doctor --fix, install-skill, sync, guard y status --check para actualizar automaticamente todos los agentes detectados en la maquina.

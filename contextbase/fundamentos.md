@@ -50,7 +50,7 @@ updall/
 - **Versión:** 0.1.0
 - **Ecosistema:** Generic
 - **Frameworks:** Librerías estándar / Vanilla
-- **Lenguajes dominantes:** Markdown (22), JSON (14), Python (4), JavaScript (1), PowerShell (1)
+- **Lenguajes dominantes:** Markdown (23), JSON (14), Python (4), JavaScript (1), PowerShell (1)
 - **Dependencias:** Sin dependencias externas registradas.
 - **Scripts:** sin scripts
 - **Directorios raíz:** .agents, .kilo, .kilocode, .opencode, contextbase

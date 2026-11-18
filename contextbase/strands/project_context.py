@@ -7,7 +7,7 @@ para que un agente Strands pueda trabajar organizado, sincronizado y sin perder
 el hilo entre sesiones. Importalo directamente en tu proyecto Strands.
 
 Generado por: ContextBase CLI
-Fecha de generacion: 2026-11-18T15:48:03.549Z
+Fecha de generacion: 2026-11-18T15:51:58.412Z
 Directorio del proyecto: D:/PROCESO/updall
 """
 
@@ -18,18 +18,18 @@ PROJECT_NAME = 'updall'
 PROJECT_DIR = 'D:\\PROCESO\\updall'
 PROJECT_VERSION = '0.1.0'
 PROJECT_TYPE = 'Generic'
-PROJECT_DESCRIPTION = ''
+PROJECT_DESCRIPTION = 'Actualizador global de la integración de **ContextBase** para agentes de código.'
 FRAMEWORKS = []
 LANGUAGES = {'Markdown': 23, 'JavaScript': 1, 'JSON': 14, 'Python': 4, 'PowerShell': 1}
-GENERATED_AT = '2026-11-18T15:48:03.550Z'
+GENERATED_AT = '2026-11-18T15:51:58.412Z'
 
 # ============================================================================
 # 2. TAREAS PENDIENTES Y COMPLETADAS
 # ============================================================================
 # PENDING_TASKS: lista de diccionarios con id, descripcion, estado, prioridad y fecha.
-PENDING_TASKS = [{'id': 'T-001', 'descripcion': 'Actualizador global de ContextBase (update-global.ps1)', 'estado': 'pendiente', 'prioridad': 'media', 'fecha': '2026-11-18T15:48:03.549Z'}, {'id': 'T-002', 'descripcion': 'Creación del actualizador global de ContextBase (update-global.ps1)', 'estado': 'pendiente', 'prioridad': 'media', 'fecha': '2026-11-18T15:48:03.549Z'}, {'id': 'T-003', 'descripcion': 'Validar cobertura de pruebas funcionales y unitarias', 'estado': 'pendiente', 'prioridad': 'media', 'fecha': '2026-11-18T15:48:03.549Z'}, {'id': 'T-004', 'descripcion': 'Revisar optimizaciones de rendimiento y seguridad', 'estado': 'pendiente', 'prioridad': 'media', 'fecha': '2026-11-18T15:48:03.549Z'}, {'id': 'T-005', 'descripcion': 'Preparar empaquetado o despliegue a producción', 'estado': 'pendiente', 'prioridad': 'media', 'fecha': '2026-11-18T15:48:03.549Z'}]
+PENDING_TASKS = [{'id': 'T-001', 'descripcion': 'Actualizador global de ContextBase (update-global.ps1)', 'estado': 'pendiente', 'prioridad': 'media', 'fecha': '2026-11-18T15:51:58.412Z'}, {'id': 'T-002', 'descripcion': 'Creación del actualizador global de ContextBase (update-global.ps1)', 'estado': 'pendiente', 'prioridad': 'media', 'fecha': '2026-11-18T15:51:58.412Z'}, {'id': 'T-003', 'descripcion': 'Validar cobertura de pruebas funcionales y unitarias', 'estado': 'pendiente', 'prioridad': 'media', 'fecha': '2026-11-18T15:51:58.412Z'}, {'id': 'T-004', 'descripcion': 'Revisar optimizaciones de rendimiento y seguridad', 'estado': 'pendiente', 'prioridad': 'media', 'fecha': '2026-11-18T15:51:58.412Z'}, {'id': 'T-005', 'descripcion': 'Preparar empaquetado o despliegue a producción', 'estado': 'pendiente', 'prioridad': 'media', 'fecha': '2026-11-18T15:51:58.412Z'}]
 # COMPLETED_TASKS: lista de diccionarios de tareas ya realizadas.
-COMPLETED_TASKS = [{'id': 'T-006', 'descripcion': 'Creación de carpeta de memoria persistente `contextbase/`', 'estado': 'completada', 'prioridad': 'media', 'fecha': '2026-11-18T15:48:03.549Z'}, {'id': 'T-007', 'descripcion': 'Generación de documento estructurado `fundamentos.md`', 'estado': 'completada', 'prioridad': 'media', 'fecha': '2026-11-18T15:48:03.549Z'}, {'id': 'T-008', 'descripcion': 'Creación de bitácora histórica `changelog.md`', 'estado': 'completada', 'prioridad': 'media', 'fecha': '2026-11-18T15:48:03.549Z'}, {'id': 'T-009', 'descripcion': 'Configuración de lista de tareas visual de alto contraste `tasklist.md`', 'estado': 'completada', 'prioridad': 'media', 'fecha': '2026-11-18T15:48:03.549Z'}, {'id': 'T-010', 'descripcion': 'Inyección de directivas y reglas críticas para agentes de código (`AGENTS.md`, `CLAUDE.md`, `.cursorrules`)', 'estado': 'completada', 'prioridad': 'media', 'fecha': '2026-11-18T15:48:03.549Z'}, {'id': 'T-011', 'descripcion': 'Escaneo y análisis retroactivo de los archivos del proyecto (`updall`)', 'estado': 'completada', 'prioridad': 'media', 'fecha': '2026-11-18T15:48:03.549Z'}, {'id': 'T-012', 'descripcion': 'Creación del actualizador global de ContextBase (`update-global.ps1`)', 'estado': 'completada', 'prioridad': 'media', 'fecha': '2026-11-18T15:48:03.549Z'}]
+COMPLETED_TASKS = [{'id': 'T-006', 'descripcion': 'Creación de carpeta de memoria persistente `contextbase/`', 'estado': 'completada', 'prioridad': 'media', 'fecha': '2026-11-18T15:51:58.412Z'}, {'id': 'T-007', 'descripcion': 'Generación de documento estructurado `fundamentos.md`', 'estado': 'completada', 'prioridad': 'media', 'fecha': '2026-11-18T15:51:58.412Z'}, {'id': 'T-008', 'descripcion': 'Creación de bitácora histórica `changelog.md`', 'estado': 'completada', 'prioridad': 'media', 'fecha': '2026-11-18T15:51:58.412Z'}, {'id': 'T-009', 'descripcion': 'Configuración de lista de tareas visual de alto contraste `tasklist.md`', 'estado': 'completada', 'prioridad': 'media', 'fecha': '2026-11-18T15:51:58.412Z'}, {'id': 'T-010', 'descripcion': 'Inyección de directivas y reglas críticas para agentes de código (`AGENTS.md`, `CLAUDE.md`, `.cursorrules`)', 'estado': 'completada', 'prioridad': 'media', 'fecha': '2026-11-18T15:51:58.412Z'}, {'id': 'T-011', 'descripcion': 'Escaneo y análisis retroactivo de los archivos del proyecto (`updall`)', 'estado': 'completada', 'prioridad': 'media', 'fecha': '2026-11-18T15:51:58.412Z'}, {'id': 'T-012', 'descripcion': 'Creación del actualizador global de ContextBase (`update-global.ps1`)', 'estado': 'completada', 'prioridad': 'media', 'fecha': '2026-11-18T15:51:58.412Z'}]
 TOTAL_TASKS = len(PENDING_TASKS) + len(COMPLETED_TASKS)
 
 # ============================================================================
@@ -75,7 +75,7 @@ NEXT_ACTION = 'Continuar con la tarea pendiente: Actualizador global de ContextB
 # ============================================================================
 # 8. GIT HISTORY Y TODOS
 # ============================================================================
-GIT_HISTORY = ['2026-11-18 | first commit']
+GIT_HISTORY = ['2026-11-18 | Add global ContextBase updater and full agent configuration', '2026-11-18 | first commit']
 # TODOS: tareas detectadas en codigo (TODO, FIXME, HACK, BUG).
 TODOS = []
 

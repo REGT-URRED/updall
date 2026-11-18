@@ -6,9 +6,9 @@
   "majors": 0,
   "nits": 1,
   "drift": 0,
-  "at": "2026-11-18T15:51:27.479Z",
+  "at": "2026-11-18T15:51:58.263Z",
   "reason": null,
-  "durationMs": 12,
+  "durationMs": 9,
   "tool": "egm",
   "version": "1.5.0",
   "driftMissingDocs": true

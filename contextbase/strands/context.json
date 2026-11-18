@@ -1,19 +1,19 @@
 {
   "project": "updall",
   "dir": "D:\\PROCESO\\updall",
-  "generatedAt": "2026-11-18T15:48:03.547Z",
+  "generatedAt": "2026-11-18T15:51:58.411Z",
   "contextDirExists": true,
   "files": {
     "fundamentos.md": {
       "exists": true,
       "size": 2875,
-      "modified": "2026-11-18T15:20:23.328Z",
-      "days": 0
+      "modified": "2026-11-18T15:51:58.366Z",
+      "days": -1
     },
     "changelog.md": {
       "exists": true,
-      "size": 1754,
-      "modified": "2026-11-18T15:48:03.386Z",
+      "size": 1846,
+      "modified": "2026-11-18T15:51:58.040Z",
       "days": 0
     },
     "tasklist.md": {
@@ -93,7 +93,7 @@
   },
   "metadata": {
     "name": "updall",
-    "description": "",
+    "description": "Actualizador global de la integración de **ContextBase** para agentes de código.",
     "version": "0.1.0",
     "type": "Generic",
     "scripts": {},
@@ -110,6 +110,7 @@
     "PowerShell": 1
   },
   "gitHistory": [
+    "2026-11-18 | Add global ContextBase updater and full agent configuration",
     "2026-11-18 | first commit"
   ],
   "todos": []
