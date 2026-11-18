@@ -1,0 +1,116 @@
+{
+  "project": "updall",
+  "dir": "D:\\PROCESO\\updall",
+  "generatedAt": "2026-11-18T15:48:03.547Z",
+  "contextDirExists": true,
+  "files": {
+    "fundamentos.md": {
+      "exists": true,
+      "size": 2875,
+      "modified": "2026-11-18T15:20:23.328Z",
+      "days": 0
+    },
+    "changelog.md": {
+      "exists": true,
+      "size": 1754,
+      "modified": "2026-11-18T15:48:03.386Z",
+      "days": 0
+    },
+    "tasklist.md": {
+      "exists": true,
+      "size": 1119,
+      "modified": "2026-11-18T15:21:59.719Z",
+      "days": 0
+    },
+    "componentes.md": {
+      "exists": true,
+      "size": 1123,
+      "modified": "2026-11-18T15:21:13.500Z",
+      "days": 0
+    }
+  },
+  "tasks": {
+    "pending": [
+      "Actualizador global de ContextBase (update-global.ps1)",
+      "Creación del actualizador global de ContextBase (update-global.ps1)",
+      "Validar cobertura de pruebas funcionales y unitarias",
+      "Revisar optimizaciones de rendimiento y seguridad",
+      "Preparar empaquetado o despliegue a producción"
+    ],
+    "done": [
+      "Creación de carpeta de memoria persistente `contextbase/`",
+      "Generación de documento estructurado `fundamentos.md`",
+      "Creación de bitácora histórica `changelog.md`",
+      "Configuración de lista de tareas visual de alto contraste `tasklist.md`",
+      "Inyección de directivas y reglas críticas para agentes de código (`AGENTS.md`, `CLAUDE.md`, `.cursorrules`)",
+      "Escaneo y análisis retroactivo de los archivos del proyecto (`updall`)",
+      "Creación del actualizador global de ContextBase (`update-global.ps1`)"
+    ],
+    "total": 12,
+    "pct": 58
+  },
+  "security": {
+    "critical": 0,
+    "high": 0,
+    "parsed": true,
+    "informe": 0
+  },
+  "rules": {
+    "present": [
+      "AGENTS.md",
+      "CLAUDE.md",
+      ".cursorrules",
+      ".windsurfrules",
+      ".agents/rules/contextbase.md"
+    ],
+    "versions": [
+      {
+        "file": "AGENTS.md",
+        "version": "1.5.0"
+      },
+      {
+        "file": "CLAUDE.md",
+        "version": "1.5.0"
+      },
+      {
+        "file": ".cursorrules",
+        "version": "1.5.0"
+      },
+      {
+        "file": ".windsurfrules",
+        "version": "1.5.0"
+      },
+      {
+        "file": ".agents/rules/contextbase.md",
+        "version": "1.5.0"
+      }
+    ],
+    "unreadable": []
+  },
+  "guard": {
+    "status": "ok",
+    "drifts": []
+  },
+  "metadata": {
+    "name": "updall",
+    "description": "",
+    "version": "0.1.0",
+    "type": "Generic",
+    "scripts": {},
+    "dependencies": [],
+    "devDependencies": [],
+    "frameworks": [],
+    "entryPoints": []
+  },
+  "languages": {
+    "Markdown": 23,
+    "JavaScript": 1,
+    "JSON": 14,
+    "Python": 4,
+    "PowerShell": 1
+  },
+  "gitHistory": [
+    "2026-11-18 | first commit"
+  ],
+  "todos": []
+}

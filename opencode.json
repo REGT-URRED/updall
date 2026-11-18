@@ -1,0 +1,26 @@
+{
+  "instructions": [
+    "AGENTS.md"
+  ],
+  "plugins": [],
+  "permissions": [
+    {
+      "action": "contextbase_*",
+      "resource": "*",
+      "effect": "allow"
+    }
+  ],
+  "mcp": {
+    "servers": {
+      "contextbase": {
+        "type": "local",
+        "command": [
+          "C:/Program Files/nodejs/node.exe",
+          "C:/Users/TOOR/AppData/Roaming/npm/node_modules/contextbase/bin/contextbase.js",
+          "mcp"
+        ],
+        "enabled": true
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "verdict": "PASS",
+  "target": "contextbase/fundamentos.md",
+  "blockers": 0,
+  "majors": 0,
+  "nits": 1,
+  "drift": 0,
+  "at": "2026-11-18T15:51:27.479Z",
+  "reason": null,
+  "durationMs": 12,
+  "tool": "egm",
+  "version": "1.5.0",
+  "driftMissingDocs": true
+}

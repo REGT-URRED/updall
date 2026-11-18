@@ -1,0 +1,26 @@
+{
+  "instructions": [
+    "AGENTS.md",
+    ".kilo/rules/contextbase.md"
+  ],
+  "plugin": [
+    "./.kilo/plugins/contextbase-auto.js"
+  ],
+  "permission": {
+    "read": "allow",
+    "glob": "allow",
+    "grep": "allow",
+    "contextbase_*": "allow"
+  },
+  "mcp": {
+    "contextbase": {
+      "type": "local",
+      "command": [
+        "C:/Program Files/nodejs/node.exe",
+        "C:/Users/TOOR/AppData/Roaming/npm/node_modules/contextbase/bin/contextbase.js",
+        "mcp"
+      ],
+      "enabled": true
+    }
+  }
+}
